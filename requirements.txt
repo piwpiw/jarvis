@@ -15,7 +15,7 @@ pyjwt==2.8.1
 stripe==5.4.0
 
 # Background Scheduling (SNS Auto v2.0)
-APScheduler==3.10.4
+APScheduler==3.11.2
 
 # Media Processing (SNS Auto v2.0)
 Pillow==10.0.0
